@@ -6,10 +6,8 @@ A modern web application that connects job seekers with employers. Built with **
 
 ## 🚀 Features
 
-- 🔐 **User Authentication** (Login/Signup using Firebase)
 - 📝 **Post and Manage Job Listings**
 - 📄 **Apply for Jobs**
-- 👩‍💼 **Employer Dashboard**
 - 👨‍💻 **Responsive UI** for both desktop and mobile users
 - ⚡ **Fast Performance** powered by Vite
 
