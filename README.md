@@ -25,5 +25,4 @@ A modern web application that connects job seekers with employers. Built with **
 | **CSS / Tailwind / Styled Components** | Styling (based on what you used) |
 
 ---
-e
 
